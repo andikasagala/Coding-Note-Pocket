@@ -26,6 +26,9 @@ Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/a
 - Private code ( section for you to save whatever important codes/notes which you need to retrive it later)<br>
 <br><br><br><br>
 
+Tips:
+- It is so important for you to save the important codes/notes inside the private section. So later if you are in low health condition ( brain damage, brain degeration, etc ) your coding productivity stable. It is like your private book in school. 
+<br><br><br><br>
 <h3>Languages:</h3>
 - C<br>
 - C#<br>
@@ -39,4 +42,7 @@ Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/a
 <h3>Next features:</h3>
 - Uploading your private codes to your drive: google drive/dropbox/our server/etc<br>
 - Will be listed on website www.scientificsoftwares.technology<br>
+- Encrypted data <br>
+- Encrypted connection to our server when backup/uploading your private codes <br>
+
 
