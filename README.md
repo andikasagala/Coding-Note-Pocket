@@ -28,7 +28,7 @@ Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/a
 <br><br><br><br>
 
 <h3>Tips:</h3>
-- It is so important for you to save the important codes/notes inside the private section. So later if you are in low health condition ( brain damage, brain degeration, etc ) your coding productivity stable. It is like your private book in school or your private diary book. 
+- It is so important for you to save the important codes/notes inside the private section. So later if you are in low health condition ( brain damage, brain degeneration, etc ) your coding productivity always stable. It is like your private book in school or your private diary book. 
 <br><br><br><br>
 <h3>Languages:</h3>
 - C<br>
