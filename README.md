@@ -9,7 +9,7 @@
 
 <h4>version v0.01a</h4>
 Coding Note Pocket is open source. It is free, means you can develop nor rewrite it into another programming language with your own thinking method.
-Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/and anothers. Coding Note Pocket is very useful for you who getting brain damage ( caused by accident ), old age, brain degeneration, etc. Coding Note Pocket will keep you productive in long life. 
+Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/and anothers. Coding Note Pocket is very useful for you who getting brain damage ( caused by accident ), old age, brain degeneration, etc. Coding Note Pocket will keep you productive in long life span. 
 <br><br><br><br>
 
 <h3>Latin guide:</h3>
