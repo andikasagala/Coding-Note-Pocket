@@ -10,33 +10,33 @@
 <h4>version v0.01a</h4>
 Coding Note Pocket is open source. It is free, means you can develop nor rewrite it into another programming language with your own thinking method.
 Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/and anothers. Coding Note Pocket is very useful for you who getting brain damage ( caused by accident ), old age, brain degeneration, etc. Coding Note Pocket will keep you productive in long life. 
-
+<br><br><br><br>
 
 <h3>Latin guide:</h3>
 - Mens sana in corpore sano ( a healthy mind in a healthy body )
-
+<br><br><br><br>
 <h3>Purposes:</h3>
-- For anyone ( unrestricted based on cultures, religions, countries, etc )
-- Scientific
-- Long life productivity
-- Additional tool for Mens sana in corpore sano. For human who in low health condition
-
+- For anyone ( unrestricted based on cultures, religions, countries, etc )<br>
+- Scientific<br>
+- Long life productivity<br>
+- Additional tool for Mens sana in corpore sano. For human who in low health condition<br>
+<br><br><br><br>
 <h3>Features:</h3>
-- There are many general/ordinary explaination for coding
-- Private code ( section for you to save whatever important codes/notes which you need to retrive it later)
-
+- There are many general/ordinary explaination for coding<br>
+- Private code ( section for you to save whatever important codes/notes which you need to retrive it later)<br>
+<br><br><br><br>
 
 <h3>Languages:</h3>
-- C
-- C#
-- C++
-
+- C<br>
+- C#<br>
+- C++<br>
+<br><br><br><br>
 <h3>Operating Systems:</h3>
-- Windows OS
-- Linux
-- Another unix OS
-
+- Windows OS<br>
+- Linux<br>
+- Another unix OS<br>
+<br><br><br><br>
 <h3>Next features:</h3>
-- Uploading your private codes to your drive: google drive/dropbox/our server/etc
-- Will be listed on website www.scientificsoftwares.technology
+- Uploading your private codes to your drive: google drive/dropbox/our server/etc<br>
+- Will be listed on website www.scientificsoftwares.technology<br>
 
