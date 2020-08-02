@@ -18,7 +18,7 @@ Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/a
 <h3>Purposes:</h3>
 - For anyone ( unrestricted based on cultures, religions, countries, etc )<br>
 - Scientific<br>
-- Long life productivity<br>
+- Long life span productivity<br>
 - Additional tool for Mens sana in corpore sano. For human who in low health condition<br>
 <br><br><br><br>
 <h3>Features:</h3>
