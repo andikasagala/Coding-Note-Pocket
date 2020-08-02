@@ -22,7 +22,7 @@ Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/a
 - Additional tool for Mens sana in corpore sano. For human who in low health condition<br>
 <br><br><br><br>
 <h3>Features:</h3>
-- There are many general/ordinary explaination for coding<br>
+- There are many general/ordinary explainations for coding<br>
 - Private code ( section for you to save whatever important codes/notes which you need to retrive it later)<br>
 <br><br><br><br>
 
