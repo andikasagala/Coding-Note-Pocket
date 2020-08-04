@@ -41,9 +41,9 @@ Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/a
 - Another unix OS<br>
 <br><br><br><br>
 <h3>Next features:</h3>
-- Uploading your private codes to your drive: google drive/dropbox/our server/etc<br>
+- Uploading your private codes to your drive: google drive/dropbox/etc<br>
 - Will be listed on website www.scientificsoftwares.technology<br>
 - Encrypted data <br>
-- Encrypted connection to our server when backup/uploading your private codes <br>
+
 
 
