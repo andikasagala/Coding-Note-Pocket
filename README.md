@@ -47,3 +47,16 @@ Coding Note Pocket is a simple tool for coder/programmer/hacker/security taker/a
 
 
 
+
+<br><br>
+
+
+<h3>Coder profiles:</h3> <br>
+Twitter: https://twitter.com/andikasagala3 <br>
+Facebook: https://www.facebook.com/andikaugandacharles.sagala <br>
+LinkedIn: https://linkedin.com/in/andika-sagala <br>
+Youtube: https://www.youtube.com/channel/UCByuR9KOrn1jvjqOkkQnHkg <br>
+
+
+
+
