@@ -1,7 +1,7 @@
 <h1>---== Coding Note Pocket ==--- </h1>
 <br><br><br><br>
 
-<b>Coder: Andi Sagala ( Andy Charles Poenas ) </b> <br>
+<b>Coder: Andi Sagala ( Andika Sagala ) </b> <br>
 <b> Date: 25th, July 2020 </b>
 
 
